@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/crpruett/crpruett/blob/950868217cf115ca71f71cb2694b93905d8b1723/PruettHeader.gif" style="width:100%;max-width:1200px;" alt="Particle Banner"/>
-</p>
+
 
 # Christopher Pruett
 
