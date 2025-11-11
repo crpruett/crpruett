@@ -31,7 +31,7 @@ I enjoy that I can use it for practically everything and it's what I've learned 
 
 <!-- BLOG-POST-LIST:START -->
 - [The Point](https://ginraidevops.substack.com/p/the-point)
-- [Coming soon](https://ginraidevops.substack.com/p/coming-soon)
+- [The Art of Crafting](https://ginraidevops.substack.com/p/the-art-of-crafting?r=3gxfuj)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
