@@ -101,22 +101,3 @@ I enjoy that I can use it for practically everything and it's what I've learned 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpruett&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="crpruett" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=crpruett&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-<!--
-<!--START_SECTION:activity-->
-<!--START_SECTION:waka-->
-
-```rust
-From: 08 October 2025 - To: 09 October 2025
-
-Total Time: 19 mins
-
-Vue.js       11 mins         >>>>>>>>>>>>>>>----------   60.66 %
-HTML         3 mins          >>>>>--------------------   18.65 %
-Git Config   1 min           >>-----------------------   08.93 %
-PowerShell   1 min           >>-----------------------   07.45 %
-JavaScript   0 secs          -------------------------   00.67 %
-```
-
-<!--END_SECTION:waka-->
-<!--END_SECTION:activity-->
--->
