@@ -11,8 +11,7 @@ DevOps Engineer, Cloud Native Engineer, command line junkie. I work mainly with 
 
 ### Kubernetes Homelab
 
-My pride and joy. Enterprise grade security in my basement with Talos Linux and FluxCD.
-
+My pride and joy. Enterprise grade security in my basement with classic Ubuntu Linux and FluxCD.
 
 
 ## Microsoft Azure
