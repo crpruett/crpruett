@@ -101,3 +101,20 @@ I enjoy that I can use it for practically everything and it's what I've learned 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpruett&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="crpruett" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=crpruett&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+<!--START_SECTION:activity-->
+<!--START_SECTION:waka-->
+
+```rust
+From: 08 October 2025 - To: 16 November 2025
+
+Total Time: 14 hrs 30 mins
+
+PowerShell   6 hrs 11 mins   >>>>>>>>>----------------   37.30 %
+Markdown     4 hrs 16 mins   >>>>>>-------------------   25.77 %
+Other        2 hrs 4 mins    >>>----------------------   12.47 %
+```
+
+<!--END_SECTION:waka-->
+<!--END_SECTION:activity-->
+
