@@ -93,7 +93,7 @@ I enjoy that I can use it for practically everything and it's what I've learned 
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120)
 
 ---
 
