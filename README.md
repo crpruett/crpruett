@@ -150,7 +150,7 @@ I enjoy that I can use it for practically everything and it's what I've learned 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 October 2025 - To: 01 June 2026
+From: 08 October 2025 - To: 02 June 2026
 
 Total Time: 27 hrs 33 mins
 
